@@ -1,0 +1,16 @@
+body {
+    background: url("https://photorator.com/photos/images/ushguli-village-surrounded-by-caucasus-mountains-in-svaneti-georgia--28486.jpg");
+    background-size: 120%; 
+    
+}
+.villiager {
+    position: absolute;
+ z-index: 1000;    
+ width: 300px;
+ bottom: 0px;
+ right: 0px;
+}
+p {
+ color: white;
+ font-size: 30px;
+}
