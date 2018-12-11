@@ -14,3 +14,11 @@ p {
  color: white;
  font-size: 30px;
 }
+.sun {
+ width: 200px;   
+ position: absolute;
+ right: 170px;
+}
+.bred {
+ width: 200px;   
+}
